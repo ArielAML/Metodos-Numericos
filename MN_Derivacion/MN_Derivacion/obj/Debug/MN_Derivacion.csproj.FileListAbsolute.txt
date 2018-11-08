@@ -1,0 +1,10 @@
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\bin\Debug\MN_Derivacion.exe.config
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\bin\Debug\MN_Derivacion.exe
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\bin\Debug\MN_Derivacion.pdb
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.csprojResolveAssemblyReference.cache
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.Form1.resources
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.Properties.Resources.resources
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.csproj.GenerateResource.Cache
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.csproj.CoreCompileInputs.cache
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.exe
+C:\Users\backa\source\repos\MN_Derivacion\MN_Derivacion\obj\Debug\MN_Derivacion.pdb
